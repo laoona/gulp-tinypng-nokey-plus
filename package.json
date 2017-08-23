@@ -1,0 +1,27 @@
+{
+  "name": "gulp-tinypng-nokey-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laoono/gulp-tinypng-nokey-plus.git"
+  },
+  "keywords": [
+    "gulp-tinypng-nokey"
+  ],
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "request": "~2.31.0",
+    "through2": "~0.4.2"
+  },
+  "author": "laoono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laoono/gulp-tinypng-nokey-plus/issues"
+  },
+  "homepage": "https://github.com/laoono/gulp-tinypng-nokey-plus#readme"
+}
